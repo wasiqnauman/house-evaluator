@@ -10,25 +10,25 @@ The inspiration behind this project was from Zillow's Challenge on their dataset
 ## Plotting the data, we can clearly see a correlation exists
 ![](imgs/plot.png)
 
-# We shall try out a bunch of regression models to see which one works best
+## We shall try out a bunch of regression models to see which one works best
 
-## 1. LinearRegression by sklearn.linear_model
+### 1. LinearRegression by sklearn.linear_model
 
 ![](imgs/sklearn_regression_pred.png)
 ![](imgs/sklearn_regression_plot.png)
 
-## 2. KNeighborsRegressor from sklearn.neighbors
+### 2. KNeighborsRegressor from sklearn.neighbors
 
 ![](imgs/KNeighbors_pred.png)
 ![](imgs/KNeighbors_plot.png)
 
 
-## 3. RandomForestRegressor from sklearn.ensemble
+### 3. RandomForestRegressor from sklearn.ensemble
 
 ![](imgs/RandomForest_pred.png)
 ![](imgs/RandomForest_plot.png)
 
-# Feature Selection
+### Feature Selection
 
 ![](imgs/top_features.png)
 
